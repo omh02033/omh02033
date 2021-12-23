@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omh02033&count_private=true&show_icons=true&theme=dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=omh02033&theme=onedark&row=2&column=4)
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=omh02033&langs_count=8)
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=omh02033&langs_count=5)
