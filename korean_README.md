@@ -1,13 +1,12 @@
-[한국어 페이지](https://github.com/omh02033/omh02033/blob/main/korea_README.md)
-### Hi there 👋, my name is Oh Myung-Hoon
-#### I am Full-Stack Developer
+### 안녕하세요! 👋, 오명훈입니다
+#### 웹 풀스택 개발자 입니다!
 <div align="center"><img src="https://raw.githubusercontent.com/omh02033/omh02033/main/images/profile.png" width="250" /></div>
 
-Hello, I am Oh Myung-hoon, a sophomore at Digital Media High School in Korea.
+안녕하세요, 저는 한국디지털미디어고등학교 2학년 재학중인 오명훈입니다.
 
-I'm a web full stack developer who does his best to provide the most comfortable service. These days, I am studying to provide services not only on the web but also on mobile.
+저는 세상 편안한 서비스를 제공하려고 최선을 다 하는 웹 풀스택 개발자입니다. 요즘은 웹뿐만 아니라 모바일에서도 서비스를 제공하려고 공부하고 있습니다.
 
-I'm thinking a lot about security, too! "**How do you make your customers as secure as they can without being bothered?**" It's a constant concern. I'm trying hard to find a solution to this problem!
+보안에 관해서도 굉장히 생각을 많이하고 있죠! "**고객이 최대한 귀찮지 않으면서도 보안을 강화 시킬 방법은 무엇인가?**" 항상 고민하고 있는 문제입니다. 저는 이 문제를 해결하기 위한 해결책을 열심히 찾고 있습니다!
 
 Skills: React.js / Express.js / Flutter
 
