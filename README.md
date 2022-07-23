@@ -11,9 +11,9 @@ I'm thinking a lot about security, too! "**How do you make your customers as sec
 
 Skills: React.js / Express.js / Flutter
 
-- 🌱 요즘 공부하고 있는 기술 : Flutter and Haskell 
-- 💬 문의하고 싶다면 : omh02033@gmail.com 
-- 🤙 연락하고 싶다면 : <a href="https://instagram.com/audgns23" target="_blank">Instagram</a>
+- 🌱 I’m currently learning : Flutter and Haskell 
+- 💬 If you want to ask : omh02033@gmail.com 
+- 🤙 If you want to instagram : [Instagram](https://instagram.com/audgns23)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omh02033)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/omh02033)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/audgns23/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myunghoon.me)  
