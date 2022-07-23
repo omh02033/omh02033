@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oh Myung-Hoon
 #### I am Full-Stack Developer
-![I am Full-Stack Developer](https://raw.githubusercontent.com/omh02033/omh02033/main/images/profile.png)
+<div align="center"><img src="https://raw.githubusercontent.com/omh02033/omh02033/main/images/profile.png" width="250" /></div>
 
 안녕하세요, 저는 한국디지털미디어고등학교 2학년 재학중인 오명훈입니다.
 
