@@ -1,4 +1,4 @@
-[한국어 페이지](https://github.com/omh02033/omh02033/blob/main/korea_README.md)
+[한국어 페이지](https://github.com/omh02033/omh02033/blob/main/korean_README.md)
 ### Hi there 👋, my name is Oh Myung-Hoon
 #### I am Full-Stack Developer
 <div align="center"><img src="https://raw.githubusercontent.com/omh02033/omh02033/main/images/profile.png" width="250" /></div>
