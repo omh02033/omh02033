@@ -1,6 +1,6 @@
 [한국어 페이지](https://github.com/omh02033/omh02033/blob/main/korean_README.md)
-### Hi there 👋, my name is Oh Myung-Hoon
-#### I am Full-Stack Developer
+### Hi there 👋, my name is Oh Myeung-Hoon
+#### I am Web Developer
 <div align="center"><img src="https://raw.githubusercontent.com/omh02033/omh02033/main/images/profile.png" width="250" /></div>
 
 Hello, I am Oh Myung-hoon, a sophomore at Digital Media High School in Korea.
@@ -9,7 +9,7 @@ I'm a web full stack developer who does his best to provide the most comfortable
 
 I'm thinking a lot about security, too! "**How do you make your customers as secure as they can without being bothered?**" It's a constant concern. I'm trying hard to find a solution to this problem!
 
-Skills: React.js / Express.js / Flutter
+Skills: React.js / Express.js / Flutter little bit
 
 - 🌱 I’m currently learning : Flutter and Haskell 
 - 💬 If you want to ask : omh02033@gmail.com 
