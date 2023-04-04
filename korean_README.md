@@ -10,7 +10,7 @@
 
 Skills: React.js / Express.js / Electron.js / Flutter
 
-- 🌱 요즘 공부하고 있는 기술 : Flutter and Haskell 
+- 🌱 요즘 공부하고 있는 기술 : 대학수학
 - 💬 문의하고 싶다면 : omh02033@gmail.com 
 - 🤙 연락하고 싶다면 : <a href="https://instagram.com/audgns23" target="_blank">Instagram</a>
 
