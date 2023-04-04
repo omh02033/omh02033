@@ -11,7 +11,7 @@ I'm thinking a lot about security, too! "**How do you make your customers as sec
 
 Skills: React.js / Express.js / Electron.js / Flutter little bit
 
-- 🌱 I’m currently learning : Flutter and Haskell 
+- 🌱 I’m currently learning : college scholastic ability test
 - 💬 If you want to ask : omh02033@gmail.com 
 - 🤙 If you want to instagram : [Instagram](https://instagram.com/audgns23)
 
