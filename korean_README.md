@@ -1,6 +1,6 @@
 ### 안녕하세요! 👋, 오명훈입니다
 #### 웹 개발자 입니다!
-<div align="center"><img src="https://raw.githubusercontent.com/omh02033/omh02033/main/images/profile.png" width="250" /></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/59903612/232705736-4c42b5bf-3179-474d-af95-6a41c1924655.png" width="250" /></div>
 
 안녕하세요, 저는 한국디지털미디어고등학교 2학년 재학중인 오명훈입니다.
 
