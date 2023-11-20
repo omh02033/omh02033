@@ -8,9 +8,9 @@
 
 보안에 관해서도 굉장히 생각을 많이하고 있죠! "**고객이 최대한 귀찮지 않으면서도 보안을 강화 시킬 방법은 무엇인가?**" 항상 고민하고 있는 문제입니다. 저는 이 문제를 해결하기 위한 해결책을 열심히 찾고 있습니다!
 
-Skills: React.js / Express.js / Electron.js / Flutter
+Skills: React.js / Express.js / Electron.js / React Native
 
-- 🌱 요즘 공부하고 있는 기술 : 대학수학능력시험
+- 🌱 요즘 공부하고 있는 기술 : React Native
 - 💬 문의하고 싶다면 : omh02033@gmail.com 
 - 🤙 연락하고 싶다면 : <a href="https://instagram.com/audgns23" target="_blank">Instagram</a>
 
