@@ -10,9 +10,9 @@ I'm a web full stack developer who does his best to provide the most comfortable
 
 I'm thinking a lot about security, too! "**How do you make your customers as secure as they can without being bothered?**" It's a constant concern. I'm trying hard to find a solution to this problem!
 
-Skills: React.js / Express.js / Electron.js / Flutter little bit
+Skills: React.js / Express.js / Electron.js / React Native
 
-- 🌱 I’m currently learning : college scholastic ability test
+- 🌱 I’m currently learning : React Native
 - 💬 If you want to ask : omh02033@gmail.com 
 - 🤙 If you want to instagram : [Instagram](https://instagram.com/audgns23)
 
