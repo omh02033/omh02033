@@ -4,7 +4,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/59903612/232705736-4c42b5bf-3179-474d-af95-6a41c1924655.png" width="250" /></div>
   
   
-Hello, I am Oh Myeong-hoon, a 24th at Sejong University.
+Hello, I am Oh Myeong-hoon, a 24th at Sejong University in Seoul.
 
 I'm a web full stack developer who does his best to provide the most comfortable service. These days, I am studying to provide services not only on the web but also on mobile.
 
