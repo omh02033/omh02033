@@ -22,4 +22,4 @@ Skills: Next.js / Express.js / Electron.js / React Native
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omh02033)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omh02033&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omh02033&show_icons=true&count_private=true)  
